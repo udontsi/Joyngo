@@ -55,7 +55,7 @@ public class Login extends AppCompatActivity {
     }
     private void UsuarioValido(String email,String password){
         String usuariovalido;
-        //CAMBIAR CODIGO POR COMPROBACION EN SQL
+        //CAMBIAR CODIGO POR COMPROBACION SQL
         if (email.equalsIgnoreCase("udontsi")){
             if (password.equals("2106")) {
                 usuariovalido="Udontsi";
