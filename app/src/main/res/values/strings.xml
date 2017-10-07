@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Joyngo</string>
+    <string name="title_activity_principal">Principal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!--Menu Principal-->
+    <string name="action_settings">Desconectar</string>
+    <string name="nick_name">Usuario</string>
+    <string name="udontsitxt">Udontsi</string>
+    <string name="nombreusuario">Cipriano Cáceres</string>
+
+
+    <!--Activity intro -->
+    <string name="introduccion">Mensaje de introducción Joyngo</string>
+    <string name="crearCuenta">Crear cuenta</string>
+    <string name="iniciarSesion">Iniciar sesión</string>
+
+    <!--Activity login -->
+    <string name="errorLogin">El usuario y/o contraseña son erroneos.</string>
+    <string name="loging">Conectando.</string>
+    <string name="errorPass">Debes escribir tu contraseña.</string>
+    <string name="errorUser">Debes especificar tu email.</string>
+    <string name="conectar">Conectar</string>
+
+    <!--Activity sign up -->
+    <string name="mail">Correo electrónico</string>
+    <string name="nickName">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="pass2">Confirme contraseña</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google+</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="fechaNacimiento">Fecha de nacimiento</string>
+
+
+
+</resources>
